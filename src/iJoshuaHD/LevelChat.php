@@ -3,13 +3,9 @@
 namespace iJoshuaHD;
 
 use pocketmine\event\Listener;
-
 use pocketmine\event\player\PlayerChatEvent;
-
 use pocketmine\Player;
-
 use pocketmine\plugin\PluginBase;
-
 use pocketmine\Server;
 
 
